@@ -4,14 +4,8 @@
 		box-sizing: border-box;
 		font-family: 'Montserrat Alternates', sans-serif;
 	}
-	body {
-		background: url(imagen/fondo.jpg) no-repeat center center fixed;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
-		background-size: cover;
-	  }
 
+	
 	.capa {
 		position: fixed;
 		width: 100%;
