@@ -4,6 +4,14 @@
 		box-sizing: border-box;
 		font-family: 'Montserrat Alternates', sans-serif;
 	}
+	.imagen {
+		max-width: 100%;
+		height: auto;
+	  }
+	  .imagen img {
+		max-width: 100%;
+		height: auto;
+	  }
 
 	
 	.capa {
